@@ -156,8 +156,8 @@ Potential directions for further investigation include:
 
 Mohammad Deen 
 Graduate in Computer Science
-GitHub: [Add your GitHub profile link here]
+GitHub: https://github.com/Mohammad-Deen64
 
 ---
 
-**Dataset Attribution:** Bermudez-Edo, M., Durán-López, A., Bolaños-Martinez, D., Garrido, J. L., & Rodriguez-Fortiz, M. J. (2025). *Wearable Sensor Dataset for Human Activity Recognition: Household Chores, Stairs, and Physiological Metrics*. Zenodo. https://doi.org/10.5281/zenodo.17671225
+**Dataset Attribution:** Bermúdez-Edo, M., Durán-López, A., Bolaños-Martínez, D., Garrido, J. L., & Rodríguez-Fortiz, M. J. (2025). *Wearable Sensor Dataset for Human Activity Recognition: Household Chores, Stairs, and Physiological Metrics*. Zenodo. https://doi.org/10.5281/zenodo.17671225
